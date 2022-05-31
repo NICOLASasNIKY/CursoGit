@@ -12,3 +12,4 @@ def printCyan(skk):     return "\033[96m{}\033[00m".format(skk)
 def printWhite(skk):    return "\033[97m{}\033[00m".format(skk)
 def printCViolet(skk):  return "\033[35m{}\033[00m".format(skk)
 def printCBeige(skk):   return "\033[36m{}\033[00m".format(skk)
+
